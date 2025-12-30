@@ -1,0 +1,55 @@
+title = 'Расписание занятий'
+
+[Wednesday]
+lesson_1_time = '8:10-9:40'
+lesson_1_subject = 'English A2 / Английский язык A2'
+lesson_2_teacher = 'Чуркина Юлия Григорьевна'
+lesson_1_type = 'Очно'
+lesson_1_classroom = 'ауд. 3225'
+lesson_1_adress = 'ул.Ломоносова, д.9, лит.E'
+
+lesson_2_time = '9:50-11:20'
+lesson_2_subject = 'English A2 / Английский язык A2'
+lesson_2_type = 'Очно'
+lesson_2_classroom = 'ауд. 3225'
+lesson_2_adress = 'ул.Ломоносова, д.9, лит.E'
+
+lesson_3_time = '11:30-13:00'
+lesson_3_subject = 'Информатика'
+lesson_3_teacher = 'Балакшин Павел Валерьевич'
+lesson_3_type = 'Очно'
+lesson_3_classroom = 'ауд. Актовый зал (1216/0 (усл))'
+lesson_3_adress = ' ул.Ломоносова, д.9, лит.М'
+
+lesson_4_time = '13:30-15:00'
+lesson_4_subject = 'Основы профессиональной деятельности'
+lesson_4_teacher = 'Клименков Сергей Викторович'
+lesson_4_type = 'Очно'
+lesson_4_classroom = 'ауд. Актовый зал (1216/0 (усл))'
+lesson_4_adress = ' ул.Ломоносова, д.9, лит.М'
+
+[Saturday]
+
+lesson_1_time = '11:30-13:00'
+lesson_1_subject = 'Информатика'
+lesson_1_teacher = 'Балакшин Павел Валерьевич'
+lesson_1_type = 'Очно'
+lesson_1_classroom = 'ауд. 1333'
+lesson_1_adress = 'Кронверский пр., д.49, лит.А'
+
+lesson_2_time = '13:30-15:00'
+lesson_2_subject = 'Информатика'
+lesson_2_teacher = 'Балакшин Павел Валерьевич'
+lesson_2_type = 'Очно'
+lesson_2_classroom = 'ауд. 1333'
+lesson_2_adress = 'Кронверский пр., д.49, лит.А'
+
+lesson_3_time = '18:50-20:20'
+lesson_3_subject = 'Реформы и реформаторы в истории России'
+lesson_3_teacher = 'Вычеров Дмитрий Александрович'
+lesson_3_type = 'Дистанционный'
+
+lesson_4_time = '20:30-22:00'
+lesson_4_subject = 'Реформы и реформаторы в истории России'
+lesson_4_teacher = 'Вычеров Дмитрий Александрович'
+lesson_4_type = 'Дистанционный'
